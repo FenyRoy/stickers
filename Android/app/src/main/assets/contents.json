@@ -4,113 +4,255 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Positive!!!!",
+      "publisher": "Feny Roy",
+      "tray_image_file": "t19.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "f14.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
+          "image_file": "f12.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
+          "image_file": "f11.webp",
           "emojis": ["😆","😂"]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
+          "image_file": "KALAKKI.webp",
           "emojis": ["😩","😰"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "ADIPOLI.webp",
           "emojis": ["😭","💧"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
+          "image_file": "CORRECT.webp",
           "emojis": ["😍","♥"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
+          "image_file": "f2.webp",
           "emojis": ["💔","👎"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
+          "image_file": "f6.webp",
           "emojis": ["😍","💑"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
+          "image_file": "f43.webp",
           "emojis": ["😘","🍪"]
         },
         {
           "image_file": "10_Cuppy_hmm.webp",
           "emojis": ["🤔","😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Ntharo Entho",
+      "publisher": "Feny Roy",
+      "tray_image_file": "t19.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "f1.webp",
+          "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "f3.webp",
+          "emojis": ["😄","😀"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "f4.webp",
+          "emojis": ["😆","😂"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "f5.webp",
+          "emojis": ["😩","😰"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "f8.webp",
+          "emojis": ["😭","💧"]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "f9.webp",
+          "emojis": ["😍","♥"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "f15.webp",
+          "emojis": ["💔","👎"]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "f16.webp",
+          "emojis": ["😍","💑"]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "f17.webp",
+          "emojis": ["😘","🍪"]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "f18.webp",
+          "emojis": ["🤔","😐"]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "f36.webp"
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "f40.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Ntha oru samshayam",
+      "publisher": "Feny Roy",
+      "tray_image_file": "t19.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "f7.webp",
+          "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "f10.webp",
+          "emojis": ["😄","😀"]
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "f23.webp",
+          "emojis": ["😆","😂"]
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "f25.webp",
+          "emojis": ["😩","😰"]
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "f30.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f31.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "f37.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "f44.webp",
+          "emojis": ["😍","💑"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Angane Aanalle",
+      "publisher": "Feny Roy",
+      "tray_image_file": "t19.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "f13.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "f21.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "f22.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "f26.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "f29.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f33.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "f38.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "f39.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "f42.webp",
+          "emojis": ["😘","🍪"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Ithum koodi onnu",
+      "publisher": "Feny Roy",
+      "tray_image_file": "t19.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "f19.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "f20.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "f24.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "f28.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "f32.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "f34.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "f35.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "f41.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "f45.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "LAL SLAM.webp",
+          "emojis": ["🤔","😐"]
         }
       ]
     }
